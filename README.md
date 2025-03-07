@@ -12,3 +12,4 @@
   - Adding Tasks
   - Editing Tasks
   - Deleting Tasks
+  - Searching Tasks
